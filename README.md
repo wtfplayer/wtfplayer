@@ -1,5 +1,4 @@
-### folixx⚡
+### folixx 🤍
 
--  I’m currently working on KongerHub.
+-  I’m currently working on my Roblox Script Hub.
 - I’m currently learning Luau.
-- I’m looking to collaborate on my Script Hub: KongerHub.
