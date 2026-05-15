@@ -1,4 +1,10 @@
-### folixx 🤍
+```md
+### folixx ✦
 
--  I’m currently working on my Roblox Script Hub.
-- I’m currently learning Luau.
+- building weird shit with  
+  `html` `luau` `javascript` `python`
+
+- focused on api work & clean systems
+
+- learning as i go
+```
